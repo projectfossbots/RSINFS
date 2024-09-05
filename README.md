@@ -6,6 +6,6 @@
 
 ## What does the release contain?
 - Moderately or heavily modified, complete source code of SynapseX. The modified source code will probably be bad, since I have to optimize them and stuff using ChatGPT coding bots.
-- Our numerous libraries that aids us in developing Synapse X and associated products.
+- Numerous libraries that aids in developing SynapseX and associated products.
 - The source code to several scripts available in the SynapseX script hub, excluding proprietary (paid) scripts.
 - The complete source code to the user interfaces.
