@@ -1,4 +1,4 @@
-# RSINFS (RoSolder Is Not For Skids)
+# RoSolder/RSINFS (RoSolder Is Not For Skids)
 
 ## Introduction
 - RSINFS (RoSolder Is Not For Skids) is a for-fun project to attempt to modify the leaked SynapseX source code from 2019 to try and turn it into my own script executor.
